@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  padding: 1rem;
+  border: 1px solid #fefefe;
+}
+
+input {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  width: 100%;
+}
+
+input[type="radio"] {
+  width: 20%;
+}
