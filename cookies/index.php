@@ -10,12 +10,6 @@
 </head>
 <body>
     <?php 
-        // if(isset($_COOKIE["login"])) {
-        //     $name = $_COOKIE["login"];
-        // } else {
-        //     $name = "internauta";
-        // }
-        // echo var_dump($_COOKIE);
             $name = "internauta";
     ?>
     <h2>Olá <?= $name ?></h2>

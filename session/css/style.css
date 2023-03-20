@@ -43,13 +43,3 @@ input {
 .welcome-img {
   margin: 2rem;
 }
-
-.curiosity {
-  margin-top: 1rem;
-  max-width: 400px;
-  padding: 1rem;
-  border-radius: 1rem;
-  border: 0;
-  background-color: rgb(31, 31, 38);
-  text-align: center;
-}
